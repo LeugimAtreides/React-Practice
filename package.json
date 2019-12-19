@@ -1,0 +1,19 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "Small activities to help learn React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeugimAtreides/React-Practice.git"
+  },
+  "author": "M.E. Villarreal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeugimAtreides/React-Practice/issues"
+  },
+  "homepage": "https://github.com/LeugimAtreides/React-Practice#readme"
+}
